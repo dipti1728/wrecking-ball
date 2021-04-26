@@ -1,0 +1,10 @@
+class Rope {
+  
+
+  
+
+  display() {
+   
+     
+    }
+  }
